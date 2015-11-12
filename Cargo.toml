@@ -1,0 +1,9 @@
+[package]
+name = "rust-rocksdb-app"
+version = "0.1.0"
+authors = ["Marius Seritan <github@seritan.net>"]
+build = "build.rs"
+
+[dependencies]
+rocksdb = "0.2.0"
+
